@@ -1,3 +1,5 @@
 .idea
 .DS_Store
 .env
+database.sqlite3
+another_db.sqlite3
